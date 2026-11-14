@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/
+data/cache/
+data/extracted_mmash/
+models/*.joblib
+outputs/*.png
+outputs/*.json

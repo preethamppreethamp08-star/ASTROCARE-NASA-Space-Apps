@@ -1,0 +1,6 @@
+{
+  "name": "ASTROCARE — Space Health Intelligence",
+  "description": "Independent biomedical research prototype for physiological, CBC, and immune biomarker preprocessing, unsupervised anomaly detection, and explainable AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
